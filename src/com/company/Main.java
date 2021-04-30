@@ -8,5 +8,6 @@ public class Main {
 	// write your code here
       System.out.println("Hello OpenClassrooms");
       System.out.println("Hello OpenClassrooms");
+      System.out.println("Hello OpenClassrooms");
     }
 }
